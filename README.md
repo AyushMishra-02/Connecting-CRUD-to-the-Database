@@ -1,4 +1,4 @@
-# W3 · A1 — CRUD API with SQLite
+# CRUD API with SQLite
 
 A Python/Flask REST API for managing tasks, backed by a **SQLite** database. Data persists across server restarts.
 
@@ -96,10 +96,5 @@ w3-sqlite-crud/
 └── README.md           # This file
 ```
 
-## Database Screenshot
-
-> TODO: Add a screenshot of your database viewer showing the tasks table here.
 
 ---
-
-*Built for Week 3, Assignment 1 — Connecting your CRUD to the database.*
